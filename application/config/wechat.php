@@ -1,6 +1,6 @@
 <?php
 $config['wechat'] = array(
-  'token'=>'ayzaky', //填写你设定的key
+  'token'=>'weixin', //填写你设定的key
   'appid'=>'wx7cf2f38dcfb28d91', //填写高级调用功能的app id
   'appsecret'=>'3b67147276b813bf88a711e00fc17a57', //
 
