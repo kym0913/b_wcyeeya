@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://km0913.imwork.net/';
+$config['base_url'] = 'http://www.bestyzky.com';
 /*
 |--------------------------------------------------------------------------
 | Index File
